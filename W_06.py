@@ -42,6 +42,7 @@ def recommend_products(users, target_user, similar_user) :
 
 # Get product sets of target and similar users
 # Find recommended products using set difference
+
 pass
 if __name__ == "__main__":
     users = {
